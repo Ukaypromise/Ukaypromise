@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ukaypromise
-- 👀 I’m interested in Frontend development
+- 👀 I’m an passionate about Software Engineering.
 - 🌱 HTML, CSS JAVASCRIPT ReactJs
 - 💞️ I’m looking to collaborate on opportunities to improve...
 - 📫 How to reach me ...
