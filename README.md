@@ -2,7 +2,8 @@
 
   <h2> About me </h2>
   
-  I'm proactive and a pragmatic individual with a stong passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 🔭 I’m currently a full time student at Microverse Inc. 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React). 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
+  I'm proactive and a pragmatic individual with a str
+  ong passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 🔭 I’m currently a full time student at Microverse Inc. 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React). 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
   
 **My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
@@ -32,7 +33,7 @@ promiseukaimo@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;  
