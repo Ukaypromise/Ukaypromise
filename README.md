@@ -12,6 +12,7 @@
 **My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
   - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
+  - 👀 I’m opend for a job offer.
   - 💬 I am looking at improving my Algo and DS skills.
   - ⚡ Quote: Living, learning, & leveling up!
   - 👀 I’m an passionate about Software Engineering.
