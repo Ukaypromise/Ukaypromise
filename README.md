@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hello! I'm Promise Uka</h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukaypromise&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise)](https://github.com/Ukaypromise/github-readme-stats)
-
-
   <h2> About me </h2>
   
   I'm proactive and a pragmatic individual with a strong passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 🔭 I’m currently a full time student at Microverse Inc. 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React). 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
@@ -20,6 +16,10 @@
   - 💞️ I’m looking to collaborate on opportunities to improve...
   - 📫 Let's connect on LinkedIn and on Twitter 😄.
   ----------------
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukaypromise&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise)](https://github.com/Ukaypromise/github-readme-stats)
+  
   ### Contact me:
 👤 **Promise Uka**
 
