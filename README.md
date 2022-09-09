@@ -1,8 +1,9 @@
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/85847249/189156980-6d988587-e6ad-4bcc-af84-4e0a44499133.gif">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</div>
 
 <h1 align="center">👋 Hello! I'm Promise Uka</h1>
-<h3 align="center" ><p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="100px" width="100px"> Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
+<h3 align="center" > Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
  <h3 align="center" > I am a self-motivated tech enthusiast and an aspiring full-stack developer 😲 </h3>
   <h2 align="center"> About me </h2>
   I'm proactive and a pragmatic individual with a strong passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 🔭 I’m currently a full time student at Microverse Inc. 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React). 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
@@ -43,11 +44,12 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
 </p>
-  
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukaypromise&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise)](https://github.com/Ukaypromise/github-readme-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise)](https://github.com/Ukaypromise/github-readme-stats)
   ### Contact me:
+  <p align="center"> <img src="https://user-images.githubusercontent.com/85847249/189156980-6d988587-e6ad-4bcc-af84-4e0a44499133.gif">
+  
 👤 **Promise Uka**
 
 - GitHub: [@Ukaypromise](https://github.com/Ukaypromise/)
