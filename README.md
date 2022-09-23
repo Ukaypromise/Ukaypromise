@@ -6,13 +6,21 @@
 <h3 align="center" > Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
  <h3 align="center" > I am a self-motivated tech enthusiast and an aspiring full-stack developer 😲 </h3>
   <h2 align="center"> About me </h2>
-  I'm proactive and a pragmatic individual with a strong passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 🔭 I’m currently a full time student at Microverse Inc. 🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React). 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
+  
+ ```
+I'm proactive and a pragmatic individual with a strong passion for technology and software engineering
+looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone.
+🔭 I’m currently a full time student at Microverse Inc.
+🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React).
+👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
+```
   
 **My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
 <a href="https://twitter.com/PromiseUkay" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/promiseuka/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="100px" width="100px" alt="Twitter" align="right"></a>
 
-  - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
+```
+  - 💻 I’m learning how to improve my code quality using SOLID principles and Design Patterns. 
   - 👀 I’m opend for a job offer.
   - 💬 I am looking at improving my Algo and DS skills.
   - ⚡ Quote: Living, learning, & leveling up!
@@ -20,7 +28,25 @@
   - 🌱 HTML, CSS JAVASCRIPT ReactJs
   - 💞️ I’m looking to collaborate on opportunities to improve...
   - 📫 Let's connect on LinkedIn and on Twitter 😄.
+  ```
   ----------------
+  
+  ```javascript
+class Promise {
+  constructor(proactive,passionate) {
+    this.feeling = [proactive, passionate];
+  }
+  
+  static everyDay(){
+    let affirmation = this.feeling.includes(proactive) ? "Today I will be proactive" : " I will put in great passion";
+    return affirmation
+  }
+  
+  commitment() {
+     return this.felling.includes(passionate) ? "Building a product that will help humanity" : " An opportunity driven by passion";
+  }
+};
+```
   
   <br> 
   <img align="left" width="150px" height="150px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
