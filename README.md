@@ -25,7 +25,7 @@ looking to work with great people and solve challenging problems. Ever eager to 
   - 💬 I am looking at improving my Algo and DS skills.
   - ⚡ Quote: Living, learning, & leveling up!
   - 👀 I’m an passionate about Software Engineering.
-  - 🌱 HTML, CSS JAVASCRIPT ReactJs
+  - 🌱 HTML, CSS & CSS Frameworks, JAVASCRIPT, ReactJs, Redux, Ruby, Ruby on Rails, Typscript, Nextjs, Nodejs
   - 💞️ I’m looking to collaborate on opportunities to improve...
   - 📫 Let's connect on LinkedIn and on Twitter 😄.
   ```
