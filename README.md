@@ -49,8 +49,7 @@ class Promise {
 ```
   
   <br> 
-  <img align="left" width="150px" height="150px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
-  
+ 
 <h2 align="center">
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="70" align="center">
   My Tech Stacks
