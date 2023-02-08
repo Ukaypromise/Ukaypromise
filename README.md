@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hello! I'm Promise Uka</h1>
-<h3 align="center" > Glad to see you here ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
- <h3 align="center" > I am a self-motivated tech enthusiast and an aspiring full-stack developer 😲 </h3>
+<h3 align="center" > Glad to see you here 😲 ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>  
   <h2 align="center"> About me </h2>
   
  ```
