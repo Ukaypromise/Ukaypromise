@@ -7,23 +7,17 @@
   <h2 align="center"> About me </h2>
   
  ```
-I'm proactive and a pragmatic individual with a strong passion for technology and software engineering.
-looking to work with great people and solve challenging problems.
-🔭 I’m currently a full time student at Microverse Inc.
-🌱 Currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React).
-👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
-
-  - 💻 I’m learning how to improve my code quality using SOLID principles and Design Patterns. 
-  - 👀 I’m opend for a job offer.
+I'm a proactive and pragmatic person with a great interest in technology and software engineering.
+looking to collaborate with excellent people and solve difficult problems.
+  - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails related Projects.
+  - 💻 I’m constantly learning to improve my code quality using SOLID principles and Design Patterns. 
+  - 👀 I’m interested in developing software applications to solve real-world problems
   - 💬 I am looking at improving my Algo and DS skills.
-  - ⚡ Quote: Living, learning, & leveling up!
-  - 👀 I’m an passionate about Software Engineering.
-  - 🌱 HTML, CSS & CSS Frameworks, JAVASCRIPT, ReactJs, Redux, Ruby, Ruby on Rails, Typscript, Nextjs, Nodejs
+  - ⚡ I’m constantly learning and improving on new software tools & technologies
   - 💞️ I’m looking to collaborate on opportunities to improve...
   - 📫 Let's connect on LinkedIn and on Twitter 😄.
   ```
-  
-  
+
   <br> 
  
 <h2 align="center">
@@ -31,23 +25,30 @@ looking to work with great people and solve challenging problems.
   My Tech Stacks
 </h2>
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/> </a>
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/4223" alt="react" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+ </p>
 
-</p>
+<br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukaypromise&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise)](https://github.com/Ukaypromise/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Ukaypromise/github-readme-stats) 
+
+</br>
+  
+  ## Github Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ukaypromise&theme=tokyonight)](https://git.io/streak-stats)
+</br>
  
 👤 **Promise Uka**
 
