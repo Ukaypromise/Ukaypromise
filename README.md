@@ -24,22 +24,6 @@ looking to work with great people and solve challenging problems.
   - 📫 Let's connect on LinkedIn and on Twitter 😄.
   ```
   
-  ```javascript
-class Promise {
-  constructor(proactive,passionate) {
-    this.feeling = [proactive, passionate];
-  }
-  
-  static everyDay(){
-    let affirmation = this.feeling.includes(proactive) ? "Today I will be proactive" : " I will put in great passion";
-    return affirmation
-  }
-  
-  commitment() {
-     return this.felling.includes(passionate) ? "Building a product that will help humanity" : " Driven by passion";
-  }
-};
-```
   
   <br> 
  
