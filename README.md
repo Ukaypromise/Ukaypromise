@@ -48,9 +48,7 @@ looking to work with great people and solve challenging problems.
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukaypromise&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukaypromise)](https://github.com/Ukaypromise/github-readme-stats)
-  ### Contact me:
-  <p align="center"> <img src="https://user-images.githubusercontent.com/85847249/189156980-6d988587-e6ad-4bcc-af84-4e0a44499133.gif">
-  
+ 
 👤 **Promise Uka**
 
 - GitHub: [@Ukaypromise](https://github.com/Ukaypromise/)
